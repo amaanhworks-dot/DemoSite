@@ -10,7 +10,7 @@ export function Leadership() {
             <div className="relative mx-auto max-w-sm">
               <div className="aspect-[4/5] overflow-hidden rounded-xl bg-graphite">
                 <img
-                  src="/facility.jpg"
+                  src="https://lloydinsulations.com/wp-content/uploads/2022/05/Passive-fire-protection2.jpg"
                   alt="Proshield Systems manufacturing facility"
                   className="h-full w-full object-cover"
                   loading="lazy"
