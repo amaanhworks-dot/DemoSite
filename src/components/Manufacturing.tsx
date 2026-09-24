@@ -12,7 +12,7 @@ export function Manufacturing() {
             <div className="relative">
               <div className="aspect-[4/5] overflow-hidden rounded-xl bg-obsidian sm:aspect-[5/4] lg:aspect-[4/5]">
                 <img
-                  src="/facility.jpg"
+                  src="https://lloydinsulations.com/wp-content/uploads/2022/05/Passive-fire-protection2.jpg"
                   alt="Passive fire protection systems manufacturing"
                   className="h-full w-full object-cover opacity-90"
                   loading="lazy"
